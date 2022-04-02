@@ -3,8 +3,8 @@
 
 - 📫 How to reach me: ...
 
-[Instagram](https://www.instagram.com/asiforujof/)
-[Linked In](https://www.linkedin.com/in/asiforucov/)
+[Instagram](https://www.instagram.com/asiforujof/), 
+[Linked In](https://www.linkedin.com/in/asiforucov/), 
 <a href="mailto:asiforujof@gmail.com"><i class="fa fa-envelope-o"></i>Email</a> : <a href="mailto:asiforujof@gmail.com"><i class="fa fa-envelope-o"></i>asiforujof@gmail.com</a>
 <!--
 **asiforucov/asiforucov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
