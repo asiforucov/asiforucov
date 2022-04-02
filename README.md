@@ -24,5 +24,3 @@ Email : asiforujof@gmail.com
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=asiforucov&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<img width="50%" src="https://camo.githubusercontent.com/8c5383937540828404e35c603127670a491a2a2a773e40e3dd4d4d16f98317d6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d4361766964482673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374" alt="developer-metalhead" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=asiforucov&amp;show_icons=true&amp;theme=tokyonight&amp;layout=compact" style="max-width: 100%;">
