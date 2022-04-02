@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/asiforujof/), 
 [Linked In](https://www.linkedin.com/in/asiforucov/), 
-<a href="mailto:asiforujof@gmail.com"><i class="fa fa-envelope-o"></i>Email</a> : <a href="mailto:asiforujof@gmail.com"><i class="fa fa-envelope-o"></i>asiforujof@gmail.com</a>
+<a href="mailto:asifrjv@gmail.com"><i class="fa fa-envelope-o"></i>Email</a> : <a href="mailto:asifrjv@gmail.com"><i class="fa fa-envelope-o"></i>asifrjv@gmail.com</a>
 
 
 <!--
