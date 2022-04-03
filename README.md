@@ -1,4 +1,4 @@
-### Hola, I'm Asif Orucov 👋
+### Hola, I'm Asif Orujov 👋
 
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/asiforujof/), 
